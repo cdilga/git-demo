@@ -1,4 +1,4 @@
 def func(something):
-    something + " yes"
+    "we're done" + something + " yes"
 
 func("well, ")
