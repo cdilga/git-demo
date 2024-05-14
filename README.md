@@ -7,6 +7,9 @@ More context for this project
 print("*****")
 print("hello world!"); otherfunc()
 print("hello new world!")
+print("******")
+print("******")
+print("hello world!")
 
 ```
 
